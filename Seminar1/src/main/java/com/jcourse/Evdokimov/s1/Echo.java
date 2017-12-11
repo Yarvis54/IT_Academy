@@ -1,4 +1,4 @@
-package com.jcourse.Evdokimov;
+package com.jcourse.Evdokimov.s1;
 
 import static java.nio.charset.Charset.*;
 import java.util.Scanner;

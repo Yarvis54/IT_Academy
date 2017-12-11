@@ -1,4 +1,4 @@
-package com.jcourse.Evdokimov;
+package com.jcourse.Evdokimov.s1;
 
 /**
  * Created by Pavel on 25.11.2017.

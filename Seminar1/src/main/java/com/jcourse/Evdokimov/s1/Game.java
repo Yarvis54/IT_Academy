@@ -1,4 +1,4 @@
-package com.jcourse.Evdokimov;
+package com.jcourse.Evdokimov.s1;
 
 import java.util.Random;
 
