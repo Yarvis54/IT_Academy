@@ -18,4 +18,3 @@ public class DataLoader {
         return currentString;
     }
 }
-k
