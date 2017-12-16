@@ -6,6 +6,6 @@ package com.jcourse.Evdokimov.s2;
 public class Calc {
     public static void main(String[] args) {
         DataLoader dataLine = new DataLoader();
-        System.out.println(dataLine.getNextLine());
+        System.out.println(dataLine.GetNextLine());
     }
 }

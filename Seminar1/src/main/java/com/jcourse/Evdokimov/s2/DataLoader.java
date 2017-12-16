@@ -6,15 +6,16 @@ import java.util.Scanner;
  * Created by Pavel on 02.12.2017.
  */
 public class DataLoader {
-    private Scanner _scanner;
-    String _currentString;
+    private Scanner scanner;
+    private String currentString;
 
-    public DataLoader(){_scanner = new Scanner(System.in);}
+    public DataLoader(){scanner = new Scanner(System.in);}
 
-    public String getLine(){return _currentString;}
+    //public String GetLine(){return currentString;}
 
-    public String getNextLine(){
-        _currentString = _scanner.nextLine();
-        return _currentString;
+    public String GetNextLine(){
+        currentString = scanner.nextLine();
+        return currentString;
     }
 }
+k

@@ -1,6 +1,5 @@
 package com.jcourse.Evdokimov.s2.command;
 
-import com.jcourse.Evdokimov.s2.Calc;
 import com.jcourse.Evdokimov.s2.CalcException;
 import com.jcourse.Evdokimov.s2.Command;
 
