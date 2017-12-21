@@ -61,3 +61,4 @@ public class TextAnalyzer {
 //посмотреть java stream api и возможно реализовать через него (BufferedReaded.lines())
 
 //WireShark - сниффер для отладки 5 лабы (сервера)
+//POSTMAN
