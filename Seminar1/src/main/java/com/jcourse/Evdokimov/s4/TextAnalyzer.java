@@ -82,6 +82,21 @@ public class TextAnalyzer {
 //WireShark - сниффер для отладки 5 лабы (сервера)
 //POSTMAN
 
+/*
+Class.forName("org.h2.Driver");
+DriverManager.registerDriver();
+DriverManager.getConnection();
+
+CREATE TABLE POSTS(Id INT PRIMARY KEY,
+    post_date DATE...
+    post_message TEXT ...
+    );
+ */
+
+
+
+
+
 /*работа через поток
 
 try(BufferedReader reader = new BufferedReader(new InputStreamReader(
